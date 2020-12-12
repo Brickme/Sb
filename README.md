@@ -5,11 +5,11 @@ ls
 unzip Sb.zip
 ls
 cd Sb
-nano Sb.py (Masukan email/psswd)
+nano Sb.py (Your email/psswd)
 python3 Sb.py
 _________________
-Copy and Paste link nya di line.
-click link liff nya 
-agar bisa menggunakan fitur Template nya ,,
+Copy and Paste the link on the line.
+click the liff link
+so you can use the template feature ,,
 _________________
 Thank's to All mastah
